@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "UnrealLearningKitEditor Editor Win64 Development (UnrealLearningKit)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Shivan\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Shivan\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
